@@ -1,0 +1,13 @@
+[project]
+name = "scrape-googlescholar"
+version = "0.1.0"
+description = "Automated Google Scholar profile scraper with AI-powered content extraction, intelligent captcha handling, and structured data analysis for research monitoring."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "crawl4ai>=0.6.3",
+    "dotenv>=0.9.9",
+    "ipykernel>=6.29.5",
+    "openai>=1.78.1",
+    "playwright>=1.52.0",
+]
