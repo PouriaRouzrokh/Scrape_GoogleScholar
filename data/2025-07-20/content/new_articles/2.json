@@ -1,0 +1,15 @@
+{
+  "title": "TKA-AID: An uncertainty-aware deep learning classifier to identify total knee arthroplasty implants",
+  "authors": "Kellen L Mulford, Sami Saniei, Elizabeth S Kaji, Austin F Grove, Miguel Girod-Hoffman, Pouria Rouzrokh, Matthew P Abdel, Michael J Taunton, Cody C Wyles",
+  "year": 2025,
+  "journal": "The Journal of Arthroplasty",
+  "volume": "",
+  "number": "",
+  "pages": "",
+  "publisher": "Churchill Livingstone",
+  "abstract": "Background\nA drastic increase in the volume of primary total knee arthroplasties (TKAs) performed nationwide will inevitably lead to higher volumes of revision TKAs in which the primary knee implant must be removed. An important step in preoperative planning for revision TKA is implant identification, which is time-consuming and difficult even for experienced surgeons. We sought to develop a deep learning algorithm to automatically identify the most common models of primary TKA implants.\nMethods\nWe used an institutional total joint registry to pull images and implant data for 9,651 patients (N = 111,519 images). We trained a deep learning model based on the EfficientNet architecture to identify nine different TKA systems across all common knee radiographic views. Model performance was assessed on internal held-out test set and external test set. Conformal prediction was employed to provide uncertainty \u2026",
+  "num_citations": 1,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0883540325000348",
+  "article_id": "tka-aid-an-uncertainty-aware-deep-learning",
+  "bibtex": "@article{mulford2025tka,\n  author = {Kellen L Mulford and Sami Saniei and Elizabeth S Kaji and Austin F Grove and Miguel Girod-Hoffman and Pouria Rouzrokh and Matthew P Abdel and Michael J Taunton and Cody C Wyles},\n  title = {TKA-AID: An uncertainty-aware deep learning classifier to identify total knee arthroplasty implants},\n  journal = {The Journal of Arthroplasty},\n  year = {2025},\n  publisher = {Churchill Livingstone},\n  url = {https://www.sciencedirect.com/science/article/pii/S0883540325000348}\n}"
+}

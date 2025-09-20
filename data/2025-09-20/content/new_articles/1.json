@@ -1,0 +1,15 @@
+{
+  "title": "Physician-in-the-Loop Active Learning in Radiology Artificial Intelligence Workflows: Opportunities, Challenges, and Future Directions",
+  "authors": "Monica Luo, Fereshteh Yousefirizi, Pouria Rouzrokh, Weina Jin, Ian Alberts, Claire Gowdy, Yassine Bouchareb, Ghassan Hamarneh, Ivan Klyuzhin, Arman Rahmim",
+  "year": 2025,
+  "journal": "American Journal of Roentgenology",
+  "volume": "",
+  "number": "",
+  "pages": "",
+  "publisher": "American Roentgen Ray Society",
+  "abstract": "Artificial intelligence (AI) is being explored for a growing range of applications in radiology, including image reconstruction, image segmentation, synthetic image generation, disease classification, worklist triage, and examination scheduling. However, training accurate AI models typically requires substantial amounts of expert-labeled data, which can be time-consuming and expensive to obtain. Active learning offers a potential strategy for mitigating the impacts of such labeling requirements. In contrast with other machine-learning approaches used for data-limited situations, active learning aims to produce labeled datasets by identifying the most informative or uncertain data for human annotation, thereby reducing labeling burden to improve model performance under constrained datasets. This Review explores the application of active learning to radiology AI, focusing on the role of active learning in reducing the \u2026",
+  "num_citations": 2,
+  "url": "https://ajronline.org/doi/abs/10.2214/AJR.25.33364",
+  "article_id": "physician-in-the-loop-active-learning-in-radiology-artificial-intelligence-workflows",
+  "bibtex": "@article{luo2025physician,\n  author = {Monica Luo and Fereshteh Yousefirizi and Pouria Rouzrokh and Weina Jin and Ian Alberts and Claire Gowdy and Yassine Bouchareb and Ghassan Hamarneh and Ivan Klyuzhin and Arman Rahmim},\n  title = {Physician-in-the-Loop Active Learning in Radiology Artificial Intelligence Workflows: Opportunities, Challenges, and Future Directions},\n  journal = {American Journal of Roentgenology},\n  year = {2025},\n  publisher = {American Roentgen Ray Society},\n  url = {https://ajronline.org/doi/abs/10.2214/AJR.25.33364}\n}"
+}

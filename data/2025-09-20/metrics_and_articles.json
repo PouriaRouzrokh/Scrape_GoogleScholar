@@ -1,0 +1,30 @@
+{
+  "metrics": {
+    "citations": 1469,
+    "h_index": 22,
+    "i10_index": 38,
+    "cited_by_5_years": 1459
+  },
+  "newest_articles": [
+    {
+      "title": "Physician-in-the-Loop Active Learning in Radiology Artificial Intelligence Workflows: Opportunities, Challenges, and Future Directions",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ksv9I0sAAAAJ&sortby=pubdate&citation_for_view=Ksv9I0sAAAAJ:M05iB0D1s5AC"
+    },
+    {
+      "title": "Uncover This Tech Term: Agentic Artificial Intelligence in Radiology",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ksv9I0sAAAAJ&sortby=pubdate&citation_for_view=Ksv9I0sAAAAJ:ldfaerwXgEUC"
+    },
+    {
+      "title": "The Path to Becoming a Peer Reviewer for Radiology Journals: Recipe for Trainees",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ksv9I0sAAAAJ&sortby=pubdate&citation_for_view=Ksv9I0sAAAAJ:2P1L_qKh6hAC"
+    },
+    {
+      "title": "RIDGE: reproducibility, integrity, dependability, generalizability, and efficiency assessment of medical image segmentation models",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ksv9I0sAAAAJ&sortby=pubdate&citation_for_view=Ksv9I0sAAAAJ:TQgYirikUcIC"
+    },
+    {
+      "title": "Uncertainty-aware deep learning characterization of knee radiographs for large-scale registry creation",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ksv9I0sAAAAJ&sortby=pubdate&citation_for_view=Ksv9I0sAAAAJ:YFjsv_pBGBYC"
+    }
+  ]
+}
