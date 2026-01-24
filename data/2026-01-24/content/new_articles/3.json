@@ -1,0 +1,15 @@
+{
+  "title": "Diagnostic performance of X-ray-based deep learning models for detecting ankle and foot fractures: a systematic review and meta-analysis",
+  "authors": "Mohammad-Taha Pahlevan-Fallahy, Nasim Hosseinzadeh, Farhad Shaker, Amir-Mohammad Asgari, Mohammad Mobin Teymouri Athar, Pouria Rouzrokh",
+  "year": 2025,
+  "journal": "Skeletal Radiology",
+  "volume": "",
+  "number": "",
+  "pages": "1-14",
+  "publisher": "Springer Berlin Heidelberg",
+  "abstract": "Objectives\nLower extremity fractures are prevalent in vulnerable populations leading to significant burdens, which highlight the need for timely and precise diagnosis. Integrating deep learning with imaging findings has shown promising results for enhancing fracture detection accuracy. This study assesses the diagnostic accuracy of AI models using X-ray images to detect ankle and foot fractures and investigates the probable factors influencing their performance.\nMaterials and methods\nA comprehensive search of four databases was done up to September 30th, 2025. Studies that investigated the accuracy of deep learning models for the detection of ankle and foot fractures utilizing X-rays were included. A bivariate random-effects model was used to perform meta-analysis.\nResults\nA total of 506 studies were reviewed, and 14 were included in the meta-analysis. Analysis of all the representative models of the included \u2026",
+  "num_citations": 0,
+  "url": "https://link.springer.com/article/10.1007/s00256-025-05078-y",
+  "article_id": "diagnostic-performance-x-ray-based-deep-learning",
+  "bibtex": "@article{pahlevan-fallahy2025diagnostic,\n  author = {Mohammad-Taha Pahlevan-Fallahy and Nasim Hosseinzadeh and Farhad Shaker and Amir-Mohammad Asgari and Mohammad Mobin Teymouri Athar and Pouria Rouzrokh},\n  title = {Diagnostic performance of X-ray-based deep learning models for detecting ankle and foot fractures: a systematic review and meta-analysis},\n  journal = {Skeletal Radiology},\n  pages = {1-14},\n  year = {2025},\n  publisher = {Springer Berlin Heidelberg},\n  url = {https://link.springer.com/article/10.1007/s00256-025-05078-y}\n}"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Agentic AI in Radiology: Evolution from Large Language Models to Future Clinical Integration",
+  "authors": "Bardia Khosravi, Pouria Rouzrokh, Tugba Akinci D\u2019Antonoli, Mana Moassefi, Shahriar Faghani, Aawez Mansuri, Keno Bressem, Ali Tejani, Judy Gichoya",
+  "year": 2026,
+  "journal": "Radiology: Artificial Intelligence",
+  "volume": "",
+  "number": "",
+  "pages": "e250651",
+  "publisher": "Radiological Society of North America",
+  "abstract": "The introduction of foundational models, specifically large language models, has promised a health care transformation. However, the field is rapidly evolving toward autonomous agent systems, defined as AI entities that perceive and react to their environment to achieve specific goals\u2013representing a paradigm shift from passive information retrieval to proactive, goal-oriented clinical assistance. Agentic AI systems transcend static knowledge limitations through core capabilities including persistent memory systems that maintain context across patient encounters, knowledge retrieval tools connecting to medical repositories through retrieval-augmented generation techniques, and computer use functionality enabling navigation of clinical software interfaces. Agentic \u2026",
+  "num_citations": 0,
+  "url": "https://pubs.rsna.org/doi/abs/10.1148/ryai.250651",
+  "article_id": "agentic-ai-in-radiology-evolution-from-large-language",
+  "bibtex": "@article{khosravi2026agentic,\n  author = {Bardia Khosravi and Pouria Rouzrokh and Tugba Akinci D\u2019Antonoli and Mana Moassefi and Shahriar Faghani and Aawez Mansuri and Keno Bressem and Ali Tejani and Judy Gichoya},\n  title = {Agentic AI in Radiology: Evolution from Large Language Models to Future Clinical Integration},\n  journal = {Radiology: Artificial Intelligence},\n  pages = {e250651},\n  year = {2026},\n  publisher = {Radiological Society of North America},\n  url = {https://pubs.rsna.org/doi/abs/10.1148/ryai.250651}\n}"
+}

@@ -1,0 +1,30 @@
+{
+  "metrics": {
+    "citations": 1733,
+    "h_index": 24,
+    "i10_index": 41,
+    "cited_by_5_years": 1721
+  },
+  "newest_articles": [
+    {
+      "title": "Agentic AI in Radiology: Evolution from Large Language Models to Future Clinical Integration",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ksv9I0sAAAAJ&sortby=pubdate&citation_for_view=Ksv9I0sAAAAJ:SeFeTyx0c_EC"
+    },
+    {
+      "title": "Physician-in-the-loop active learning in radiology artificial intelligence workflows: opportunities, challenges, and future directions",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ksv9I0sAAAAJ&sortby=pubdate&citation_for_view=Ksv9I0sAAAAJ:M05iB0D1s5AC"
+    },
+    {
+      "title": "Diagnostic performance of X-ray-based deep learning models for detecting ankle and foot fractures: a systematic review and meta-analysis",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ksv9I0sAAAAJ&sortby=pubdate&citation_for_view=Ksv9I0sAAAAJ:HoB7MX3m0LUC"
+    },
+    {
+      "title": "Winning at the Radiology Podium: First-timer\u2019s Guide to Crafting and Delivering a Memorable Conference Presentation",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ksv9I0sAAAAJ&sortby=pubdate&citation_for_view=Ksv9I0sAAAAJ:pqnbT2bcN3wC"
+    },
+    {
+      "title": "Applying for an American Radiology Residency As an International Medical Graduate: The NRMP Match",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ksv9I0sAAAAJ&sortby=pubdate&citation_for_view=Ksv9I0sAAAAJ:g5m5HwL7SMYC"
+    }
+  ]
+}
