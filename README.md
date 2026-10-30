@@ -1,3 +1,5 @@
+> **Archived 2026-10-30** (by WatchTower, Pouria's decision). Superseded by the weekly Google Scholar job of pouriarouzrokh.com, which keeps the publication data current. The dated scrapes in `data/` (2025-06 to 2026-01) stay here as history.
+
 # 🎓 Google Scholar Profile Scraper
 
 An automated tool for scraping and monitoring Google Scholar author profiles with AI-powered content extraction and analysis. This tool provides intelligent captcha handling, persistent browser sessions, and structured data extraction for research tracking and analysis.
